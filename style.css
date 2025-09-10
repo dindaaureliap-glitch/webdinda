@@ -159,7 +159,7 @@ ul li a:hover {
   place-items: center;
 }
 .image img {
-  width: min(25rem, 90%);
+  width: min(30rem, 90%);
 }
 
 @media (width < 750px){
@@ -238,7 +238,7 @@ ul li a:hover {
 }
 
 .about-img img {
-  width: 500px;
+  width: 400px;
   border-radius: 10px;
 }
 
