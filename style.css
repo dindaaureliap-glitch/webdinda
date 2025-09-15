@@ -323,7 +323,7 @@ ul li a:hover {
 }
 
 .skills-group:nth-child(1) .skills-subtitle {
-  color: #d672cc;
+  color: #e25ca1;
 }
 
 .skills-group:nth-child(1) .skills-subtitle::before {
@@ -333,7 +333,7 @@ ul li a:hover {
   top: 6px;
   width: 4px;
   height: 16px;
-  background:#d672cc;
+  background:#e25ca1;
   border-radius: 2px;
 }
 
@@ -394,7 +394,7 @@ ul li a:hover {
 
 /* PROJECT */
 .projects {
-  padding: 50px 20px;
+  padding: 60px;
   text-align: center;
   background: #f58bc0;
 }
@@ -402,9 +402,15 @@ ul li a:hover {
 .projects h2 {
   font-size: 2rem;
   color: #ffffff;
-  padding: 5rem 3rem;
+  margin-top: 3%;
+  padding: 1rem 5rem;
 }
 
+.project-subtitle {
+  font-size: 15px;
+  color: #5b6b7c;
+  margin-bottom: 3%;
+}
 .project-container {
   display: flex;
   justify-content: center;
@@ -449,7 +455,7 @@ ul li a:hover {
 .see-more {
   display: inline-block;
   padding: 10px 20px;
-  background: #d672cc;
+  background: #c45b91;
   color: #fff;
   text-decoration: none;
   border-radius: 8px;
@@ -469,7 +475,7 @@ ul li a:hover {
 .education .section-title {
   text-align: center;
   font-size: 2rem;
-  color: #f58bc0;
+  color: #c93879;
   margin-bottom: 3rem;
 }
 
