@@ -136,21 +136,12 @@ ul li a:hover {
   transition: 0.3s;
 }
 
-.hire__me {
+.downloadcv {
   background: #ea75b2;
   color: #fff;
 }
-.hire__me:hover {
-  background: #b13ba5;
-  transform: translateY(-3px);
-}
-
-.portfolio {
-  color: #ea75b2;
-}
-.portfolio:hover {
-  background: #b13ba5;
-  color: #fff;
+.downloadcv:hover {
+  background: #c93879;
   transform: translateY(-3px);
 }
 
@@ -226,11 +217,11 @@ ul li a:hover {
 }
 
 .about h2 span {
-  color:#b13ba5;
+  color:#c93879;
 }
 
 .about h3 span {
-  color:#b13ba5;
+  color:#c93879;
 }
 
 .about-content h3 {
@@ -556,7 +547,7 @@ ul li a:hover {
 }
 
 .social-links a:hover {
-  color:#c93879;
+  color:#e25ca1;
 }
 
 .contact-form {
@@ -614,7 +605,7 @@ ul li a:hover {
 }
 
 .footer-nav a:hover {
-  color: #ea75b2;
+  color: #c93879;
 }
 
 .footer-social {
@@ -629,7 +620,7 @@ ul li a:hover {
 }
 
 .footer-social a:hover {
-  color: #ea75b2;
+  color: #c93879;
 }
 
 /* RESPONSIVE CONTACT */
@@ -640,7 +631,7 @@ ul li a:hover {
   }
 
   .social-links {
-    justify-content: center;
+    justify-content: center
   }
 }
 
